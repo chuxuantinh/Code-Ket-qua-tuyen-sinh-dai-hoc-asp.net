@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "KETQUA2012", "E:\KETQUA2012\", "{FA2F28D9-8779-4E1B-9E60-0E6808E9CE45}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/KETQUA2012"
+		Debug.AspNetCompiler.PhysicalPath = "E:\KETQUA2012\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\KETQUA2012\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/KETQUA2012"
+		Release.AspNetCompiler.PhysicalPath = "E:\KETQUA2012\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\KETQUA2012\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1846"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2F28D9-8779-4E1B-9E60-0E6808E9CE45}.Debug|.NET.ActiveCfg = Debug|.NET
+		{FA2F28D9-8779-4E1B-9E60-0E6808E9CE45}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
